@@ -900,4 +900,8 @@ Unblocked Games 77
 	<script type="text/javascript" src="https://monkeymart.org/content/themes/default/js/custom.js"></script>
 	<script type="text/javascript" src="https://monkeymart.org/js/stats.js"></script>
 		  </body>
+		  git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH>
+git remote set-head origin -a
 </html>
